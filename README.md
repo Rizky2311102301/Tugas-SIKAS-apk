@@ -1,3 +1,4 @@
+# Tugas-SIKAS-apk  
 func pembayarankas() {
 	var input string
 	fmt.Print("Masukkan NIM atau Nama Mahasiswa: ")
@@ -33,4 +34,4 @@ func pembayarankas() {
 	} else {
 		fmt.Println("\nData mahasiswa tidak ditemukan!")
 	}
-}
+} 
